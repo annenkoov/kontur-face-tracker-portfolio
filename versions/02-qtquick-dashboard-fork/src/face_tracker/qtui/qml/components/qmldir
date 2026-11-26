@@ -1,0 +1,11 @@
+singleton Theme 1.0 Theme.qml
+GlassCard 1.0 GlassCard.qml
+HeaderBar 1.0 HeaderBar.qml
+CameraPanel 1.0 CameraPanel.qml
+StatusGauge 1.0 StatusGauge.qml
+MetricRow 1.0 MetricRow.qml
+TrendPanel 1.0 TrendPanel.qml
+ObservationPanel 1.0 ObservationPanel.qml
+FaceSignalsPanel 1.0 FaceSignalsPanel.qml
+ActionBar 1.0 ActionBar.qml
+PersonalLabelsPanel 1.0 PersonalLabelsPanel.qml

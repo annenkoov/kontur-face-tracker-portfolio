@@ -1,0 +1,7 @@
+**/__pycache__/
+**/*.py[cod]
+**/work/
+**/.venv/
+**/*.sqlite3*
+**/outputs/*.png
+**/outputs/*.jpg

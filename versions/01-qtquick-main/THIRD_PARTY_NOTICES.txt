@@ -1,0 +1,19 @@
+Kontur third-party software notices
+
+PySide6 / Qt for Python 6.12.0
+Copyright (C) The Qt Company Ltd. and other contributors.
+Qt for Python is offered under LGPLv3/GPLv3 and separate commercial terms.
+This application uses the free open-source distribution and does not require
+a paid subscription. When redistributing the application, include the Qt and
+PySide6 license texts and comply with the applicable LGPL/GPL conditions.
+License information: https://doc.qt.io/qt-6/licensing.html
+Qt for Python: https://doc.qt.io/qtforpython-6/
+
+No paid Qt-only modules are intentionally used by this application.
+
+FER+ emotion recognition model
+The application downloads the pre-trained emotion-ferplus-7.onnx model from
+the ONNX Model Zoo for local inference. Model documentation and license:
+https://github.com/onnx/models/tree/main/validated/vision/body_analysis/emotion_ferplus
+The model expects 64x64 grayscale face crops and produces eight expression
+scores. It is not a stress classifier or a medical diagnostic model.
